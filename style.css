@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(212, 238, 220);
+    text-align: center;
+}
+h3{
+    
+   border: 1px rgb(167, 175, 173) solid;
+   text-align: center;
+   background-color: rgb(172, 241, 172) ;
+   padding: 2px;
+   margin: 2px 6px;
+   height:25px;
+} 
+ 
+.det{
+    display:inline;
+}
+a{
+    text-decoration: none;
+    color: rgb(75, 75, 236);
+}
+
+figcaption{ 
+    color:  rgb(116, 121, 120);
+    margin: 2px;
+}
